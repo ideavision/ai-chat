@@ -1,0 +1,16 @@
+python-dotenv == 0.20.0
+openai == 1.6.1
+fastapi == 0.110.1
+pydantic == 1.10
+langchain == 0.0.333
+uvicorn == 0.29.0
+beautifulsoup4 == 4.12.3
+psycopg2-binary == 2.9.9
+lxml == 5.2.1
+tiktoken == 0.5.2
+pgvector == 0.2.4
+langserve == 0.0.34
+sse-starlette == 2.1.0
+
+
+

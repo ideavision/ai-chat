@@ -1,0 +1,2067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://developers.paysera.com/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/transfer/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/notification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/file-formats/mokesis</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/basic</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/delivery/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/sms-keywords/current</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/smsbank/current</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/psd2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/user</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/client</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/app</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/currency-conversion</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment-cards</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/user-identification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/integration</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/libraries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/transfer/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/transfer/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/transfer/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/transfer/api-spec</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/transfer/callbacks</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/transfer/integration</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/transfer/libraries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/notification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/notification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/notification/callback</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/notification/library</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/file-formats/mokesis</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/file-formats/mokesis</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/file-formats/taresis</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/file-formats/xls</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/file-formats/fidavista</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/file-formats/xml</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/basic</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/basic</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/flow</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-types</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-window</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/error-codes</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/basic/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/basic/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/basic/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/basic/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/delivery/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/delivery/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/delivery/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/delivery/integrations</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-collection</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/api-specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/libraries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/sms-keywords/current</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/sms-keywords/current</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/smsbank/current</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/smsbank/current</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-library</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/psd2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/user</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/client</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/app</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/currency-conversion</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment-cards</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/user-identification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/integration</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/libraries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/psd2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/user</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/client</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/app</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/currency-conversion</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment-cards</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/user-identification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/integration</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/libraries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/psd2/api-specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/psd2/reports</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/user/wallet</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/user/user</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/user/oauth</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/user/scopes</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment/samples</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment/payment</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment/commission</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment/allowance</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment/transaction</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment/authori</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment/callbacks</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment/requests</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment/generator</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/payment/inquiries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/app/integration</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/app/pos</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/app/qr-info</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/app/notifications</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/integration/login-with-paysera</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/integration/cash-out</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/integration/scan-and-pay</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/integration/cash-in</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/integration/transfer-via-transition-account</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/integration/upload-to-wallet</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/integration/distribute-payments</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/transfer/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/transfer/api-spec</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/transfer/callbacks</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/transfer/integration</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/transfer/libraries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/transfer/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/transfer/api-spec</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/transfer/callbacks</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/transfer/integration</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/transfer/libraries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/transfer/transfer-api-specification/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/transfer/integration/perform-transfer</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/transfer/integration/perform-transfer-api</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/transfer/integration/perform-transfer-gui</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/transfer/integration/distribute-transfer</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/notification/callback</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/notification/library</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/notification/callback</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/notification/library</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/file-formats/taresis</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/file-formats/xls</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/file-formats/fidavista</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/file-formats/xml</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/file-formats/taresis</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/file-formats/xls</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/file-formats/fidavista</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/file-formats/xml</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/flow</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-types</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-window</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/error-codes</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/basic/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/basic/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/basic/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/basic/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/flow</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-types</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-window</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/error-codes</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/basic/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/basic/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/basic/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/basic/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/flow/1.6</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/flow/1.6</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/flow/1.6</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/flow/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/flow/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/flow/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/flow/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-solutions</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-callback</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-donate-button</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-types/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-types/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-types/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-types/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-window/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-window/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-window/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-window/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/error-codes/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/error-codes/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/error-codes/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/error-codes/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/delivery/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/delivery/integrations</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/delivery/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/delivery/integrations</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/delivery/integrations/solutions</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/delivery/integrations/library</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/delivery/integrations/specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/delivery/integrations/parameters</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-collection</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/api-specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/libraries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/basics</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-collection</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/api-specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/libraries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-collection/payment-flow</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/payment-collection/recurring-billing</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/api-specification/checkout-api</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/api-specification/notification-event-api</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-library</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-library</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-specification/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-specification/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-specification/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-specification/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-library/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-library/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-library/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-library/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/psd2/api-specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/psd2/reports</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/user/wallet</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/user/user</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/user/oauth</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/user/scopes</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment/samples</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment/payment</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment/commission</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment/allowance</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment/transaction</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment/authori</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment/callbacks</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment/requests</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment/generator</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/payment/inquiries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/app/integration</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/app/pos</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/app/qr-info</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/app/notifications</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/integration/login-with-paysera</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/integration/cash-out</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/integration/scan-and-pay</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/integration/cash-in</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/integration/transfer-via-transition-account</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/integration/upload-to-wallet</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/integration/distribute-payments</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/psd2/api-specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/psd2/reports</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/user/wallet</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/user/user</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/user/oauth</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/user/scopes</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment/samples</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment/payment</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment/commission</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment/allowance</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment/transaction</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment/authori</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment/callbacks</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment/requests</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment/generator</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/payment/inquiries</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/app/integration</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/app/pos</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/app/qr-info</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/app/notifications</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/integration/login-with-paysera</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/integration/cash-out</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/integration/scan-and-pay</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/integration/cash-in</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/integration/transfer-via-transition-account</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/integration/upload-to-wallet</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/integration/distribute-payments</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/wallet/psd2/api-specification/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/transfer/transfer-api-specification/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/transfer/integration/perform-transfer</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/transfer/integration/perform-transfer-api</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/transfer/integration/perform-transfer-gui</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/transfer/integration/distribute-transfer</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/transfer/transfer-api-specification/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/transfer/integration/perform-transfer</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/transfer/integration/perform-transfer-api</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/transfer/integration/perform-transfer-gui</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/transfer/integration/distribute-transfer</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/flow/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/flow/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/flow/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/flow/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-solutions</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-callback</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-donate-button</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-types/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-types/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-types/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-types/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-window/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-window/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-window/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-window/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/error-codes/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/error-codes/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/error-codes/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/error-codes/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/flow/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/flow/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/flow/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/flow/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-solutions</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-callback</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-donate-button</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-types/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-types/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-types/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-types/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-window/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-window/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-window/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-window/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/error-codes/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/error-codes/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/error-codes/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/error-codes/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-solutions/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-solutions/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-solutions/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-solutions/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-callback/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-callback/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-callback/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-callback/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-donate-button/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-donate-button/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-donate-button/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/integrations/integration-donate-button/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/delivery/integrations/solutions</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/delivery/integrations/library</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/delivery/integrations/specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/delivery/integrations/parameters</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/delivery/integrations/solutions</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/delivery/integrations/library</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/delivery/integrations/specification</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/delivery/integrations/parameters</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/delivery/specifications/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-collection/payment-flow</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/payment-collection/recurring-billing</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/api-specification/checkout-api</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/api-specification/notification-event-api</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-collection/payment-flow</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/payment-collection/recurring-billing</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/api-specification/checkout-api</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/api-specification/notification-event-api</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/api-specification/checkout-api/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/en/checkout/api-specification/notification-event-api/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-specification/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-specification/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-specification/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-specification/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-library/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-library/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-library/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-library/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-specification/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-specification/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-specification/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-specification/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-library/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-library/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-library/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-library/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/wallet/psd2/api-specification/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/wallet/psd2/api-specification/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-solutions/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-solutions/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-solutions/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-solutions/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-callback/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-callback/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-callback/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-callback/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-donate-button/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-donate-button/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-donate-button/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/integrations/integration-donate-button/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-solutions/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-solutions/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-solutions/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-solutions/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-callback/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-callback/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-callback/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-callback/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-donate-button/1.2</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-donate-button/1.3</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-donate-button/1.4</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/integrations/integration-donate-button/1.5</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/delivery/specifications/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/delivery/specifications/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/api-specification/checkout-api/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/lt/checkout/api-specification/notification-event-api/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/api-specification/checkout-api/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://developers.paysera.com/ru/checkout/api-specification/notification-event-api/html</loc>
+  <lastmod>2024-02-12T09:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>

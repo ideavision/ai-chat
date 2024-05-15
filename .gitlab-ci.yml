@@ -1,0 +1,73 @@
+include:
+  - project: 'myapp/ci-templates'
+    file: prepare/npm-install.yaml
+  - project: 'myapp/ci-templates'
+    file: build/kaniko.yaml
+  - project: 'myapp/ci-templates'
+    file: 'deploy/webistrano.yaml'
+  - project: 'myapp/ci-templates'
+    file: 'stages.yaml'
+    
+
+
+# prepare-application:
+#   extends: .npm-install
+#   needs: []
+#   dependencies: []
+#   artifacts:
+#     name: ${CI_COMMIT_SHORT_SHA}-test
+#     untracked: true
+#     when: on_success
+#     expire_in: 1 hour
+#   rules:
+#     - when: always
+
+
+
+.build-image:
+  extends: .kaniko
+  needs: []
+  dependencies: []
+  rules:
+    - when: always
+
+build-node-image:
+  extends: .build-image
+  variables:
+    DOCKERFILE: 'src/web/Dockerfile'
+    IMAGE_NAME: 'frontend'
+
+# build-nginx-image:
+#   extends: .build-image
+#   variables:
+#     DOCKERFILE: 'docker/nginx/Dockerfile'
+#     IMAGE_NAME: 'nginx'
+
+.build-prod-image:
+  extends: .kaniko
+  rules:
+    - if: $CI_COMMIT_BRANCH == "master"
+      when: always
+    - if: $CI_COMMIT_BRANCH == "develop"
+      when: always
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+      when: always
+    - when: never
+
+build-prod-python-image:
+  extends: .build-prod-image
+  variables:
+    DOCKERFILE: 'src/Dockerfile'
+    IMAGE_NAME: 'backend'
+
+deploy:
+  extends: .deploy
+  needs:
+    - job: build-prod-python-image
+      optional: true
+  rules:
+    - if: $CI_COMMIT_BRANCH == "master"
+      when: always
+    - if: $CI_COMMIT_BRANCH == "develop"
+      when: always
+    - when: never
